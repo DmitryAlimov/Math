@@ -3,6 +3,7 @@
 #include "Eigen/Dense"
 using namespace std;
 
+
 class arr{
 public:
     arr(int Nx, int Ny){
